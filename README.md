@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/desktop-view.jpeg)
+![](Screenshots/desktop-view.jpeg)
 
-![](screenshots/mobile-view.jpeg)
+![](Screenshots/mobile-view.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-3-columns-preview-card-using-css-grid-flexbox-v9LzW9mkRx)
+- Live Site URL: [live site URL](https://cooger17.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
